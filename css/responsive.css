@@ -1,0 +1,2 @@
+@media (min-width:768px) { #app { padding-top:var(--space-7); }.actions { grid-template-columns:1fr 1fr; }.benefit-grid { grid-template-columns:repeat(3, 1fr); }.benefit-card { display:block; }.benefit-icon { margin-bottom:var(--space-3); }.support-sheet { bottom:var(--space-5); left:auto; right:var(--space-5); width:390px; border-radius:var(--radius-lg); }.help-fab { right:var(--space-5); }.form-card, .hero-card, .review-card, .receipt-card, .resume-card { padding:var(--space-6); } }
+@media (min-width:1024px) { :root { --max:840px; } h1 { font-size:var(--text-xl); } }
